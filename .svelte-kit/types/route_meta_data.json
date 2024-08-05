@@ -1,0 +1,7 @@
+{
+	"/": [],
+	"/Home": [
+		"src/routes/Home/+page.js",
+		"src/routes/Home/+page.server.js"
+	]
+}
