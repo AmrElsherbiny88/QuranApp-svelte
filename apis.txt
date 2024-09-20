@@ -1,0 +1,20 @@
+https://api.quran.com/api/v4/resources/recitations  القراء
+
+https://api.quran.com/api/v4/chapter_recitations/:id   القران كله لشيخ معين 
+
+
+https://api.quran.com/api/v4/chapter_recitations/:id/:chapter_number  سورة معينة لشيخ معين
+
+
+http://api.alquran.cloud/v1/surah/number  سور القران 
+
+
+http://api.alquran.cloud/v1/surah  سورة معينة 
+
+
+http://api.alquran.cloud/v1/ayah/262 اية معينة 
+
+
+سبحة 
+
+تفسير ؟؟؟؟؟
